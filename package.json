@@ -1,17 +1,18 @@
 {
-  "name": "homebridge-dummy",
-  "version": "0.6.0",
-  "description": "Dummy switches for Homebridge: https://github.com/nfarina/homebridge",
+  "name": "homebridge-shortcuts",
+  "displayName": "Siri Shortcuts",
+  "version": "1.0.0",
+  "description": "This plugin runs Shortcuts on Mac",
   "license": "ISC",
   "keywords": [
     "homebridge-plugin"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/nfarina/homebridge-dummy.git"
+    "url": "git://github.com/kylewhirl/homebridge-shortcuts.git"
   },
   "bugs": {
-    "url": "http://github.com/nfarina/homebridge-dummy/issues"
+    "url": "http://github.com/kylewhirl/homebridge-shortcuts/issues"
   },
   "engines": {
     "node": ">=0.12.0",
